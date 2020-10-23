@@ -3,8 +3,8 @@ ver 1
 zCArchiverGeneric
 ASCII
 saveGame 0
-date 23.10.2020 7:10:19
-user tolya
+date 23.10.2020 17:43:42
+user Knop
 END
 objects 1        
 END
@@ -12,13 +12,13 @@ END
 [% oCSavegameInfo 0 0]
 	Title=string:Tol
 	WorldName=string:NEWWORLD
-	TimeDay=int:13
-	TimeHour=int:15
-	TimeMin=int:50
-	SaveDate=string:23.10.2020 - 7:10
+	TimeDay=int:15
+	TimeHour=int:19
+	TimeMin=int:36
+	SaveDate=string:23.10.2020 - 17:43
 	VersionMajor=int:2
 	VersionMinor=int:6
-	PlayTimeSeconds=int:69798
+	PlayTimeSeconds=int:92645
 	VersionPoint=int:0
 	VersionInt=int:0
 	VersionAppName=string:Gothic II - 2.6 (fix)
